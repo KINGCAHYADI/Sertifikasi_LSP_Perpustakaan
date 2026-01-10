@@ -93,5 +93,6 @@ Member dapat melihat daftar peminjaman miliknya berdasarkan `peminjaman.id_membe
 ## Cara Menjalankan Project (Local)
 
 ### 1) Install dependency
-```bash
-composer install
+### 2) Buat file .env
+### 3) Buat database & tabel (MySQL Workbench)
+### 4) Jalankan aplikasi
