@@ -101,4 +101,4 @@ Member dapat melihat daftar peminjaman miliknya berdasarkan `peminjaman.id_membe
 
 ## Unit Testing
 
-<img width="719" height="588" alt="Image" src="https://github.com/user-attachments/assets/e7a1b187-6072-4395-867f-50d56a107374" />
+<img width="719" height="439" alt="Image" src="https://github.com/user-attachments/assets/f6d81b34-36c9-452f-9896-b1e99e8d9a35" />
