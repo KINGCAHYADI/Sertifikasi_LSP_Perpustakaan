@@ -96,3 +96,15 @@ Member dapat melihat daftar peminjaman miliknya berdasarkan `peminjaman.id_membe
 ### 2) Buat file .env
 ### 3) Buat database & tabel (MySQL Workbench)
 ### 4) Jalankan aplikasi
+
+---
+
+## Unit Testing
+
+Member Katalog Test
+
+Member Pinjam Test
+
+Staff Buku Test
+
+Login Test
