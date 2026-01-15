@@ -101,12 +101,4 @@ Member dapat melihat daftar peminjaman miliknya berdasarkan `peminjaman.id_membe
 
 ## Unit Testing
 
-### Member Katalog Test
-
-<img width="674" height="141" alt="Image" src="https://github.com/user-attachments/assets/db29a919-71ad-47f9-8a33-9479908f5633" />
-
-Member Pinjam Test
-
-Staff Buku Test
-
-Login Test
+<img width="719" height="588" alt="Image" src="https://github.com/user-attachments/assets/e7a1b187-6072-4395-867f-50d56a107374" />
